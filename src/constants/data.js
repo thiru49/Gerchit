@@ -79,4 +79,10 @@ const awards = [
   },
 ];
 
-export default { indianVegFoods, indianNonVegFoods, awards };
+const data = {
+  indianVegFoods,
+  indianNonVegFoods,
+  awards,
+};
+
+export default data;
